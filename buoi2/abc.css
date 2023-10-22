@@ -1,0 +1,54 @@
+.see{
+    margin: auto;
+
+}
+.file{
+    background-image: url(./img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.can1{
+    background-image: url(./img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+}
+.can2{
+    background-image: url(./img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+}
+.can3{
+    background-image: url(./img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+}
+.can4{
+    background-image: url(./img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+
+}
+.and{
+    background-image: url(./img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.her1{
+    padding: 5px;
+}
+.her2{
+    padding: 8px;
+}
+.athout{
+    font-size: 20px;
+    font-weight: 800px;
+    padding: 10px;
+}
+.her4{
+    padding: 5px;
+}
