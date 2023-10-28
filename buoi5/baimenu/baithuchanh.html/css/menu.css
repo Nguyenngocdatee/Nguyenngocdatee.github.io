@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tym{
+    padding: 0px 4px;
+}
+.content ul li {
+    list-style: none;
+    float: left;
+    border: 2px solid red;
+    padding: 0px 2px;
+    margin-right: 10px;
+}
+.content ul li a{
+text-decoration: none;
+color: yellow;
+}
+.content ul li a:hover{
+    background-color: aqua;
+    color: brown;
+
+   
+}
+
+
