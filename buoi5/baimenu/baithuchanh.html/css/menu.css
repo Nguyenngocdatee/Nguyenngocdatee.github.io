@@ -4,11 +4,11 @@
 }
 
 .tym{
-    padding: 0px 4px;
+    <li class="tym"> <a href="#">trang chu</a></li>
 }
 .content ul li {
     list-style: none;
-    float: left;
+    float:right;
     border: 2px solid red;
     padding: 0px 2px;
     margin-right: 10px;
