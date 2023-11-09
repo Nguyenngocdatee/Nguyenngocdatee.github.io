@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#modau{
+    width: 1200px;
+    margin: 0 auto;
+    background-image: url(./4.jpg);
+    background-repeat: no-repeat;
+}
+ #box2 ul li {
+    float: right;
+    padding: 10px;
+    list-style: none;
+ }
+#phan1{
+    height: 80px;
+}
+#box1{
+    float: left;
+    padding: 10px;
+}
+#box2{
+    float:right
+}
+#phangiua{
+    height: 95vh;
+}
+#phan2{ 
+    width: 25%;
+    float: left;
+    height: 100%;
+}
+#phan2 ul{
+    padding: 30px;
+}
+.team{
+    margin:5px;
+}
+#phan3{
+    width: 75%;
+    float: right;
+    height: 100%;
+}
+#phan2 ul li{
+    list-style: none;
+}
+.my {
+    width: 32%;
+    float: left;
+    position: relative;
+    margin-bottom: 7px;
+    margin-left: 10px;
+}
+.my  img{
+    width: 100%;
+    
+}
+#hi1{
+    height: 30px;
+    background-color: yellow;
+}
+#hi2{
+    background-color: black;
+    width: 100%;
+    height: 25px;
+    position: absolute;
+    bottom: 5px;
+    opacity: 0.5
+}
+#hi3{
+    height: 25px;
+    position: absolute;
+    bottom: 4px;
+}
+
+#phancuoi{
+    height: 90px;
+}
+#can1 {
+    float: left;
+    line-height: 80px;
+    padding-left: 50px;
+}
+#can2 ul #ben{
+    list-style: none;
+    float: left;
+    padding: 3px;
+
+}
+#can2{
+    float: right;
+    line-height: 80px;
+    padding-right: 40px;
+}

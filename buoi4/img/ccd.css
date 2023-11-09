@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: auto;
+}
+#wrapper{
+    max-width: 70%;
+    height: 0px;
+    text-align: center;
+}
+.a2{
+    border: 1px solid #eed9d9;
+    display: inline-block;
+    text-align: center;
+}
+ul.a1 li:hover .a2{
+    border:  2px solid green;
+}
+ul.a1{
+    display: flex;
+    flex-wrap: nowrap;
+    list-style: none;
+
+}
+ul.a1 li{
+    padding-left: 1px;
+    padding-right: 1px;
+}
+ul.a1 li .a2.a3{
+    text-transform: uppercase;
+    color: rgb(255, 211, 196);
+    padding-top: 20px;
+    
+}
+ul.a1 li .a2 #gia{
+    color: rgb(225, 21, 18);
+    font-size: 20px;
+    padding: 5px;
+}
+ul.a1 li .a4{
+    padding-bottom: 20px;
+}
+ul.a1 li .a2 #gia:hover{
+    color: yellow;
+}
+h2{
+    font-size: 10px;
+}

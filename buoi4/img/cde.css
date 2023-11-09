@@ -1,0 +1,100 @@
+*{
+    margin:auto;
+    padding:0;
+}
+body{
+    background-image: url(./tuyet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#background{
+    border: 2px solid white;
+    height: 100%;
+    width: 70%;
+}
+
+#modau{
+     background-image: url(../img/123.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+
+}
+#giua{
+    height: 500px;
+
+}
+#main{ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/menu_bar.gif)
+    
+    
+}
+#menu1{
+    background-image: ;
+    color: orange; 
+    width: 20%;
+    height: 100%;
+    background: white;
+    text-align: center;
+    float: left;
+    
+
+}
+.a{ border: 2px solid black;
+
+}
+#a1{
+    text-align: left;
+    background-image: url(../img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#a2{
+    text-align: left;
+}
+.b{ 
+    border: 2px  solid black;
+}
+#b1{
+    background-image: url(../img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+}
+
+#b2{}
+.c{ 
+    border: 2px solid black;
+}
+#c1{ background-image: url(../img/menu_bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    border: 10px;
+
+}
+#c2{}
+#giua2{
+    width: 60%;
+    height: 100%;
+    background-color:white;
+    text-align: center;
+    float: left;
+    line-height: 10px;
+}
+
+#menu2{
+    width: 20%;
+    height: 100%;
+    background-color:white;
+    text-align: center;
+    float:right;
+    line-height: 10px;
+}
+#cuoi{
+    background-image: url(../img/line_bar.gif);
+    height: 40px;
+}
