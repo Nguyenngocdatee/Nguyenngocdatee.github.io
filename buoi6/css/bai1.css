@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#phan1{
+    idth: 100%;
+    height: 200px;
+    /* list-style: none; */
+    padding: 10px;
+}
+#hi{
+    float: left;
+    padding: 5px;
+}
+#rep{
+    list-style: none;
+}
+#phan2{}
+#him{
+    width: 100%;
+    height: 44px;
+    padding-left: 530px;
+    color: green;
+}
+#his{
+    width: 100%;
+    height: 40px;
+    padding: 5px;
+    padding-left: 580px
+}
+#from{
+        width: 100%;
+        height: 700px;
+        float: left;
+}
+#box1{
+    width: 30%%;
+    padding: 10px;
+}
+#box2{
+    color: green;
+}
+#box3{}
+#phan3{}
+#left{
+    color: green;
+    float: left;
+    padding: 10px;
+    width: 63%;
+}
+#top{
+    width: 50%;
+    float: left
+}
+#ben{}
+#top1{}
+#ben2{}
+#right1{
+    float: right;
+}
+#right2{
+    float: right;
+}
+#phan4{}
+#can0{}
+#can1{}
+#can2{}
+#can3{}
+#can4{}
+#can5{}
