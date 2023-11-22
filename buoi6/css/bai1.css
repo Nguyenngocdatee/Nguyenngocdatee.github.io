@@ -4,10 +4,14 @@
 }
 #phan1{
     idth: 100%;
-    height: 200px;
+    height: 110px;
     /* list-style: none; */
     padding: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
 }
+
 #hi{
     float: left;
     padding: 5px;
@@ -15,56 +19,137 @@
 #rep{
     list-style: none;
 }
-#phan2{}
+#phan2{
+    width: 100%;
+    height: 705px;
+    background-color: whitesmoke;
+}
 #him{
     width: 100%;
     height: 44px;
-    padding-left: 530px;
+    display: flex;
+    justify-content: center;
     color: green;
 }
+
 #his{
     width: 100%;
     height: 40px;
-    padding: 5px;
-    padding-left: 580px
+    padding-top: 85px;
+    display: flex;
+    justify-content: center;
+    font-size: 27px;
+    font-family: cursive;
+    color: aqua;
+
 }
 #from{
-        width: 100%;
-        height: 700px;
-        float: left;
+    width: 100%;
+    height: 76%;
+    float: left;
+}
+#from img{
+    width: 80%;
+}
+#box{
+    width: 30%;
+    height: 40%;
+    float: left;
+    padding: 15px;
+    padding-bottom: 15px;
+    padding-top: 20px;
 }
 #box1{
-    width: 30%%;
+    width: 100%;
+    height: 80%;
     padding: 10px;
+    padding-bottom: 10px;
 }
 #box2{
     color: green;
+    padding-left: 8px;
+    height: 10%;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-#box3{}
-#phan3{}
+#box3{
+    width: 80%;
+    height: 10%;
+   padding-left: 8px;
+   padding-top: 2px;
+}
+#phan3{
+    width: 100%;
+    background-color:white;
+}
+#hai{
+    width: 70%;
+}
 #left{
-    color: green;
+    color:aqua;
     float: left;
-    padding: 10px;
+    padding-left: 35px;
     width: 63%;
 }
 #top{
     width: 50%;
-    float: left
+   
 }
-#ben{}
-#top1{}
-#ben2{}
+#ben1{
+    padding-left: 35px;
+}
+#top1{
+    padding-bottom: 10px;
+}
+#ben2{
+    width: 30%;
+    height: 200px;
+    float: right;
+}
 #right1{
     float: right;
 }
 #right2{
     float: right;
 }
-#phan4{}
-#can0{}
+#phan4{
+   background-color: #17a0a58c;
+   color: white;
+}
+#phan4 ul li{
+    list-style: none;
+    padding: 3px;
+}
+#me{
+    padding-left: 8%;
+
+}
+#can0{
+    padding: 4px;
+}
+#can1 input{
+    width: 60%;
+    height: 30px;
+}
 #can1{}
+#can2 input{
+    width: 60%;
+    height: 35px;
+
+}
 #can2{}
+#can3 input{
+    width: 60%;
+    height: 60px;
+}
 #can3{}
+#can4 input{
+    width: 60%;
+    height: 30px;
+}
 #can4{}
+#can5 input{
+    width: 10%;
+    margin-top: 5px;
+}
 #can5{}

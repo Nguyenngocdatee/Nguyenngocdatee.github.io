@@ -1,0 +1,56 @@
+ .menu {
+    list-style: none;
+    padding: 0;
+  }
+  
+.menu #top {
+    position: relative;
+    background-color: blue;
+    display: inline-block;
+  }
+  
+.menu #top a {
+    display: block;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: black;
+  }
+ .menu #top:hover a{
+    color: yellow;
+ } 
+ .menu #top #top1 {
+    position: absolute;
+    top: 100%;
+    left:0;
+    display: none;
+    background-color: bisque;
+    padding: 0;
+    min-width: 200px;
+  }
+  
+ .menu #top:hover #top1 {
+    display: block;
+  }
+  
+ .menu #top #top1 li {
+    position: relative;
+    border: solid 1px;
+    display: block;
+    width: 100%;
+
+  }
+  
+ .menu #top #top1 li #can {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    display: none;
+    background-color: #7b3232;
+    padding: 0;
+    min-width: 200px;
+  }
+  
+ .menu #top #top1 li:hover #can {
+    display: block;
+  }
+  
