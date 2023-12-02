@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#content{
+  max-width: 1534px;
+  margin:auto ;
+}
+body{
+  overflow: hidden;
+}
+.my {
+        width: 24%;
+        float: left;
+        position: relative;
+        margin-bottom: 7px;
+        margin-left: 10px;
+        height: 200px;
+    }
+    .my  img{
+        width: 100%;
+        
+    }
+    #hi1{
+        height: 30px;
+        background-color:white;
+    }
+    #hi2{
+        background-color: black;
+        width: 100%;
+        height: 25px;
+        position: absolute;
+        bottom: 5px;
+        opacity: 0.5
+    }
+    #hi3{
+        height: 25px;
+        position: absolute;
+        bottom: 4px;
+        color: aliceblue;
+    }
+    
+@media  screen and ( min-width:960px){
+    .my {
+      width: 24%;
+        /* background-color: orange; */
+        /* transform: scale(0.75); */
+        /* position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        flex-basis: 100%; */
+    }
+  }
+    @media  screen and (max-width: 960px ) {
+    .my {
+      width: 30%;
+      /* background-color: yellow;
+      /* transform: scale(0.5); */
+      /* position: fixed;
+      top: 0;
+      left:0;
+      width: 80%;
+      height: 100%; */
+      /* flex-basis: 75%; */ 
+    }
+    }
+  
+  
+  @media  screen and (max-width: 758px ) {
+   .my {
+    width: 50%;
+      /* background-color: green;
+      /* transform: scale(0.25); */
+      /* position: fixed;
+      top: 0;
+      left: 0;
+      width: 60%;
+      height: 100%; */
+      /* flex-basis: 50%; */ 
+
+    }
+  }
+  
+  @media  screen and (max-width: 500px) {
+    .my {
+      width: 100%;
+      /* background-color: red;
+      /* width:30%;
+      top: 0;
+     left: 0;
+      height: 100%; */
+      /* flex-basis: 30%; */ 
+    }
+}
